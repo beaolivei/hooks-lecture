@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Getting Started 
+
+You can check a working version of the app [here](https://inquisitive-genie-9689b5.netlify.app/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

@@ -1,10 +1,9 @@
-import QuizzField from "./components/QuizzField";
-
+import AppWrapper from "./components/AppWrapper";
 
 function App() {
   return (
     <div>
-     <QuizzField/>
+     <AppWrapper/>
     </div>
   );
 }
